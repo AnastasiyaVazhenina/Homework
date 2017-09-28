@@ -10,6 +10,7 @@ ADD_DEFINITIONS(
 
 # enum your files
 add_executable(executable
+ homework.cpp
     hello_world.cpp
 )
 
